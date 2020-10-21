@@ -15,7 +15,7 @@ name = Punctuations;
 },
 {
 automatic = 1;
-code = "a o e E A Y L six two b p m w j q x y n z D s r H i one V three N l d t g k h four eight five v F seven B c f u T a.case o.case e.case E.case A.case Y.case L.case six.case two.case b.case p.case m.case w.case j.case q.case x.case y.case n.case z.case D.case s.case r.case H.case i.case one.case V.case three.case N.case l.case d.case t.case g.case k.case h.case four.case eight.case five.case v.case F.case seven.case B.case c.case f.case u.case T.case V_y f_f f_f_i f_f_l f_f_short f_i f_l fi fl V_l.liga f_L.liga f_f_j.liga f_j.liga uni706F period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk numbersign slash backslash uni2016 uni203F uni204A exclamdown.case questiondown.case uni208D uni208E parenleft parenright braceleft braceright bracketleft bracketright uni207D uni207E parenleft.case parenright.case braceleft.case braceright.case bracketleft.case bracketright.case hyphen uni00AD endash emdash figuredash underscore uni2010 uni2011 uni2015 hyphen.case uni00AD.case endash.case emdash.case quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemotleft guillemotright guilsinglleft guilsinglright quotedbl quotesingle guillemotleft.case guillemotright.case guilsinglleft.case guilsinglright.case uni0E4F uni05C3 uni05F3 uni05F4 uni05BE uni10FB uni097D uni0964 uni0965 uni0970 uni06D4 uni060C uni061B uni061F uni066D uniFD3E uniFD3F anoteleia uni037E space uni00A0 uni2007 uni2008 uni200B space.frac uni200C uni200D uni200E uni200F CR uniFEFF Euro cent colonmonetary currency dollar dong florin sterling uni0E3F uni20A9 uni20AF uni20BA uni20BD yen dotmath plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot asciicircum emptyset infinity integral uni2126 uni2206 product summation radical uni00B5 partialdiff percent perthousand uni207A uni207B uni207C uni208A uni208B uni208C uni2215 uni2219 uni2981 infinity.case arrowup uni2197 arrowright uni2198 arrowdown uni2199 arrowleft uni2196 arrowboth arrowupdn upWhiteArrow uni21E8 uni21E9 uni21E6 uni2B06 uni2B07 uni2B05 uni27A1 uni25CF uni25CC lozenge uni25AF triagup uni25B6 triagdn uni25C0 triagrt triaglf uni25B4 uni25B8 uni25BE uni25C2 at ampersand paragraph section copyright registered trademark degree bar brokenbar uni2113 dagger daggerdbl estimated uni2116 uni21EA uni2327 uni232B uni2326 uni2328 uni23CE PowerSymbol powerOnOffSymbol uni2B58 powerOnSymbol powerSleepSymbol uniF8FF uni02D4 uni02D6 uni02D7 uni02DE uni02E5 uni02E6 uni02E7 uni02E8 uni02E9 uni02EE uniA789 uniA78A uni02E4 uniFB29 uni066A uni0609 uni060A uni03F6 uni0374 uni0375 uni02E0";
+code = "a o e E A Y L six two b p m w j q x y n z D s r H i one V three N l d t g k h four eight five v F seven B c f u T a.case o.case e.case E.case A.case Y.case L.case six.case two.case b.case p.case m.case w.case j.case q.case x.case y.case n.case z.case D.case s.case r.case H.case i.case one.case V.case three.case N.case l.case d.case t.case g.case k.case h.case four.case eight.case five.case v.case F.case seven.case B.case c.case f.case u.case T.case V_y f_f f_f_i f_f_l f_f_short f_i f_l fi fl V_l.liga f_L.liga f_f_j.liga f_j.liga uni706F period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk numbersign slash backslash uni2016 uni203F uni204A exclamdown.case questiondown.case uni208D uni208E parenleft parenright braceleft braceright bracketleft bracketright uni207D uni207E parenleft.case parenright.case braceleft.case braceright.case bracketleft.case bracketright.case hyphen uni00AD endash emdash figuredash underscore uni2010 uni2011 uni2015 hyphen.case uni00AD.case endash.case emdash.case quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemotleft guillemotright guilsinglleft guilsinglright quotedbl quotesingle guillemotleft.case guillemotright.case guilsinglleft.case guilsinglright.case uni0E4F uni05C3 uni05F3 uni05F4 uni05BE uni10FB uni097D uni0964 uni0965 uni0970 uni06D4 uni060C uni061B uni061F uni066D anoteleia uni037E space uni00A0 uni2007 uni2008 uni200B space.frac uni200C uni200D uni200E uni200F CR uniFEFF Euro cent colonmonetary currency dollar dong florin sterling uni0E3F uni20A9 uni20AF uni20BA uni20BD yen dotmath plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot asciicircum emptyset infinity integral uni2126 uni2206 product summation radical uni00B5 partialdiff percent perthousand uni207A uni207B uni207C uni208A uni208B uni208C uni2215 uni2219 uni2981 infinity.case arrowup uni2197 arrowright uni2198 arrowdown uni2199 arrowleft uni2196 arrowboth arrowupdn upWhiteArrow uni21E8 uni21E9 uni21E6 uni2B06 uni2B07 uni2B05 uni27A1 uni25CF uni25CC lozenge uni25AF triagup uni25B6 triagdn uni25C0 triagrt triaglf uni25B4 uni25B8 uni25BE uni25C2 at ampersand paragraph section copyright registered trademark degree bar brokenbar uni2113 dagger daggerdbl estimated uni2116 uni21EA uni2327 uni232B uni2326 uni2328 uni23CE PowerSymbol powerOnOffSymbol uni2B58 powerOnSymbol powerSleepSymbol uniF8FF uni02D4 uni02D6 uni02D7 uni02DE uni02E5 uni02E6 uni02E7 uni02E8 uni02E9 uni02EE uniA789 uniA78A uni02E4 uniFB29 uni066A uni0609 uni060A uni03F6 uni0374 uni0375 uni02E0";
 name = All;
 },
 {
@@ -2301,7 +2301,7 @@ unicode = 007A;
 },
 {
 glyphname = D;
-lastChange = "2020-09-09 07:39:17 +0000";
+lastChange = "2020-10-21 07:08:35 +0000";
 layers = (
 {
 hints = (
@@ -2442,7 +2442,7 @@ nodes = (
 width = 498;
 }
 );
-leftKerningGroup = d;
+leftKerningGroup = uni0501.sc;
 note = uni0463;
 rightKerningGroup = pi;
 unicode = 0044;
@@ -2625,7 +2625,7 @@ unicode = 0072;
 },
 {
 glyphname = H;
-lastChange = "2020-09-09 07:42:29 +0000";
+lastChange = "2020-10-21 07:29:38 +0000";
 layers = (
 {
 hints = (
@@ -2664,18 +2664,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"410 0 LINE",
-"431 158 LINE",
-"248 158 LINE",
-"248 534 LINE",
+"402 0 LINE",
+"423 158 LINE",
+"240 158 LINE",
+"240 534 LINE",
 "42 534 LINE",
 "42 -207 LINE",
-"248 -227 LINE",
-"248 0 LINE"
+"240 -227 LINE",
+"240 0 LINE"
 );
 }
 );
-width = 441;
+width = 433;
 },
 {
 hints = (
@@ -2714,21 +2714,21 @@ paths = (
 {
 closed = 1;
 nodes = (
-"351 0 LINE",
-"355 22 LINE",
-"141 22 LINE",
-"141 519 LINE",
+"350 0 LINE",
+"354 22 LINE",
+"140 22 LINE",
+"140 519 LINE",
 "118 519 LINE",
 "118 -192 LINE",
-"141 -204 LINE",
-"141 0 LINE"
+"140 -204 LINE",
+"140 0 LINE"
 );
 }
 );
-width = 377;
+width = 376;
 }
 );
-leftKerningGroup = B;
+leftKerningGroup = uni0299;
 note = L;
 rightKerningGroup = L;
 unicode = 0048;
@@ -2809,7 +2809,7 @@ unicode = 0069;
 },
 {
 glyphname = one;
-lastChange = "2020-09-09 07:39:19 +0000";
+lastChange = "2020-10-21 07:39:07 +0000";
 layers = (
 {
 hints = (
@@ -2836,17 +2836,17 @@ paths = (
 {
 closed = 1;
 nodes = (
-"415 534 LINE",
-"239 534 LINE",
-"-5 390 LINE",
-"81 261 LINE",
-"223 347 LINE",
-"223 0 LINE",
-"415 0 LINE"
+"364 534 LINE",
+"182 534 LINE",
+"-5 424 LINE",
+"81 295 LINE",
+"166 347 LINE",
+"166 0 LINE",
+"364 0 LINE"
 );
 }
 );
-width = 470;
+width = 419;
 },
 {
 hints = (
@@ -2879,17 +2879,17 @@ paths = (
 {
 closed = 1;
 nodes = (
-"265 519 LINE",
-"247 519 LINE",
-"48 400 LINE",
-"59 382 LINE",
-"243 493 LINE",
-"243 0 LINE",
-"265 0 LINE"
+"197 519 LINE",
+"179 519 LINE",
+"48 441 LINE",
+"59 423 LINE",
+"175 493 LINE",
+"175 0 LINE",
+"197 0 LINE"
 );
 }
 );
-width = 388;
+width = 320;
 }
 );
 leftKerningGroup = one.osf;
@@ -3073,7 +3073,7 @@ unicode = 0033;
 },
 {
 glyphname = N;
-lastChange = "2020-09-09 07:39:20 +0000";
+lastChange = "2020-10-21 08:03:13 +0000";
 layers = (
 {
 hints = (
@@ -3220,9 +3220,9 @@ nodes = (
 width = 302;
 }
 );
-leftKerningGroup = i;
+leftKerningGroup = p;
 note = N;
-rightKerningGroup = ii;
+rightKerningGroup = i;
 unicode = 004E;
 },
 {
@@ -3845,7 +3845,7 @@ unicode = 0068;
 },
 {
 glyphname = four;
-lastChange = "2020-09-09 07:39:22 +0000";
+lastChange = "2020-10-21 08:18:13 +0000";
 layers = (
 {
 hints = (
@@ -4477,7 +4477,7 @@ unicode = 0046;
 },
 {
 glyphname = seven;
-lastChange = "2020-09-09 07:39:22 +0000";
+lastChange = "2020-10-21 08:43:14 +0000";
 layers = (
 {
 hints = (
@@ -4571,7 +4571,7 @@ unicode = 0037;
 },
 {
 glyphname = B;
-lastChange = "2020-09-09 07:39:23 +0000";
+lastChange = "2020-10-21 07:29:36 +0000";
 layers = (
 {
 layerId = "FB938A0F-794B-4CBD-9B18-13182D479D81";
@@ -12145,7 +12145,7 @@ rightKerningGroup = uni01C8;
 },
 {
 glyphname = uni706F;
-lastChange = "2020-09-10 07:24:29 +0000";
+lastChange = "2020-10-21 03:12:04 +0000";
 layers = (
 {
 layerId = "D8724204-5FB7-4143-B54F-478BABD83301";
@@ -12224,7 +12224,7 @@ nodes = (
 );
 }
 );
-width = 988;
+width = 986;
 },
 {
 layerId = "FB938A0F-794B-4CBD-9B18-13182D479D81";
@@ -12234,11 +12234,11 @@ closed = 1;
 nodes = (
 "179 313 LINE",
 "188 400 OFFCURVE",
-"188 516 OFFCURVE",
-"188 590 CURVE SMOOTH",
-"188 632 OFFCURVE",
-"188 660 OFFCURVE",
-"187 660 CURVE",
+"189 504 OFFCURVE",
+"193 578 CURVE SMOOTH",
+"195 620 OFFCURVE",
+"197 660 OFFCURVE",
+"197 660 CURVE",
 "58 670 LINE",
 "58 653 OFFCURVE",
 "58 637 OFFCURVE",
@@ -18491,294 +18491,6 @@ width = 818;
 );
 note = uni066D;
 unicode = 066D;
-},
-{
-glyphname = uniFD3E;
-lastChange = "2020-09-09 07:40:06 +0000";
-layers = (
-{
-layerId = "FB938A0F-794B-4CBD-9B18-13182D479D81";
-paths = (
-{
-closed = 1;
-nodes = (
-"481 -159 LINE",
-"406 -80 OFFCURVE",
-"364 16 OFFCURVE",
-"336 83 CURVE",
-"356 88 OFFCURVE",
-"379 100 OFFCURVE",
-"406 127 CURVE",
-"358 180 LINE",
-"445 260 LINE",
-"445 309 LINE",
-"358 390 LINE",
-"406 442 LINE",
-"379 469 OFFCURVE",
-"356 481 OFFCURVE",
-"336 486 CURVE",
-"364 553 OFFCURVE",
-"406 649 OFFCURVE",
-"481 728 CURVE",
-"419 787 LINE",
-"332 726 OFFCURVE",
-"240 602 OFFCURVE",
-"192 492 CURVE",
-"168 490 OFFCURVE",
-"135 478 OFFCURVE",
-"115 457 CURVE",
-"153 398 LINE",
-"64 312 LINE",
-"64 257 LINE",
-"153 171 LINE",
-"115 112 LINE",
-"135 91 OFFCURVE",
-"168 79 OFFCURVE",
-"192 77 CURVE",
-"240 -33 OFFCURVE",
-"332 -157 OFFCURVE",
-"419 -218 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"216 222 OFFCURVE",
-"186 252 OFFCURVE",
-"186 286 CURVE SMOOTH",
-"186 321 OFFCURVE",
-"216 350 OFFCURVE",
-"255 350 CURVE SMOOTH",
-"293 350 OFFCURVE",
-"323 321 OFFCURVE",
-"323 286 CURVE SMOOTH",
-"323 252 OFFCURVE",
-"293 222 OFFCURVE",
-"255 222 CURVE SMOOTH"
-);
-}
-);
-width = 530;
-},
-{
-layerId = "D8724204-5FB7-4143-B54F-478BABD83301";
-paths = (
-{
-closed = 1;
-nodes = (
-"382 -156 LINE",
-"284 -52 OFFCURVE",
-"219 78 OFFCURVE",
-"208 239 CURVE",
-"214 239 OFFCURVE",
-"223 242 OFFCURVE",
-"229 248 CURVE",
-"219 261 LINE",
-"239 282 LINE",
-"239 295 LINE",
-"219 316 LINE",
-"229 328 LINE",
-"223 334 OFFCURVE",
-"214 337 OFFCURVE",
-"208 338 CURVE",
-"220 499 OFFCURVE",
-"284 629 OFFCURVE",
-"382 733 CURVE",
-"373 743 LINE",
-"280 650 OFFCURVE",
-"205 518 OFFCURVE",
-"184 339 CURVE",
-"177 339 OFFCURVE",
-"166 336 OFFCURVE",
-"161 331 CURVE",
-"170 317 LINE",
-"149 295 LINE",
-"149 282 LINE",
-"170 260 LINE",
-"161 246 LINE",
-"166 241 OFFCURVE",
-"177 238 OFFCURVE",
-"184 238 CURVE",
-"204 59 OFFCURVE",
-"280 -72 OFFCURVE",
-"373 -164 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"185 274 OFFCURVE",
-"178 281 OFFCURVE",
-"178 288 CURVE SMOOTH",
-"178 296 OFFCURVE",
-"185 304 OFFCURVE",
-"194 304 CURVE SMOOTH",
-"203 304 OFFCURVE",
-"210 296 OFFCURVE",
-"210 288 CURVE SMOOTH",
-"210 281 OFFCURVE",
-"203 274 OFFCURVE",
-"194 274 CURVE SMOOTH"
-);
-}
-);
-width = 530;
-}
-);
-note = uniFD3E;
-unicode = FD3E;
-},
-{
-glyphname = uniFD3F;
-lastChange = "2020-09-09 07:40:06 +0000";
-layers = (
-{
-hints = (
-{
-horizontal = 1;
-place = "{-218, 21}";
-target = up;
-type = BottomGhost;
-},
-{
-place = "{85, 122}";
-type = Stem;
-},
-{
-place = "{344, 122}";
-type = Stem;
-}
-);
-layerId = "FB938A0F-794B-4CBD-9B18-13182D479D81";
-paths = (
-{
-closed = 1;
-nodes = (
-"111 -218 LINE",
-"198 -157 OFFCURVE",
-"290 -33 OFFCURVE",
-"338 77 CURVE",
-"362 79 OFFCURVE",
-"395 91 OFFCURVE",
-"415 112 CURVE",
-"377 171 LINE",
-"466 257 LINE",
-"466 312 LINE",
-"377 398 LINE",
-"415 457 LINE",
-"395 478 OFFCURVE",
-"362 490 OFFCURVE",
-"338 492 CURVE",
-"290 602 OFFCURVE",
-"198 726 OFFCURVE",
-"111 787 CURVE",
-"49 728 LINE",
-"124 649 OFFCURVE",
-"166 553 OFFCURVE",
-"194 486 CURVE",
-"174 481 OFFCURVE",
-"151 469 OFFCURVE",
-"124 442 CURVE",
-"172 390 LINE",
-"85 309 LINE",
-"85 260 LINE",
-"172 180 LINE",
-"124 127 LINE",
-"151 100 OFFCURVE",
-"174 88 OFFCURVE",
-"194 83 CURVE",
-"166 16 OFFCURVE",
-"124 -80 OFFCURVE",
-"49 -159 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"237 222 OFFCURVE",
-"207 252 OFFCURVE",
-"207 286 CURVE SMOOTH",
-"207 321 OFFCURVE",
-"237 350 OFFCURVE",
-"275 350 CURVE SMOOTH",
-"314 350 OFFCURVE",
-"344 321 OFFCURVE",
-"344 286 CURVE SMOOTH",
-"344 252 OFFCURVE",
-"314 222 OFFCURVE",
-"275 222 CURVE SMOOTH"
-);
-}
-);
-width = 600;
-},
-{
-layerId = "D8724204-5FB7-4143-B54F-478BABD83301";
-paths = (
-{
-closed = 1;
-nodes = (
-"157 -164 LINE",
-"250 -72 OFFCURVE",
-"326 59 OFFCURVE",
-"346 238 CURVE",
-"353 238 OFFCURVE",
-"364 241 OFFCURVE",
-"369 246 CURVE",
-"360 260 LINE",
-"381 282 LINE",
-"381 295 LINE",
-"360 317 LINE",
-"369 331 LINE",
-"364 336 OFFCURVE",
-"353 339 OFFCURVE",
-"346 339 CURVE",
-"325 518 OFFCURVE",
-"250 650 OFFCURVE",
-"157 743 CURVE",
-"148 733 LINE",
-"246 629 OFFCURVE",
-"310 499 OFFCURVE",
-"322 338 CURVE",
-"316 337 OFFCURVE",
-"307 334 OFFCURVE",
-"301 328 CURVE",
-"311 316 LINE",
-"291 295 LINE",
-"291 282 LINE",
-"311 261 LINE",
-"301 248 LINE",
-"307 242 OFFCURVE",
-"316 239 OFFCURVE",
-"322 239 CURVE",
-"311 78 OFFCURVE",
-"246 -52 OFFCURVE",
-"148 -156 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"327 274 OFFCURVE",
-"320 281 OFFCURVE",
-"320 288 CURVE SMOOTH",
-"320 296 OFFCURVE",
-"327 304 OFFCURVE",
-"336 304 CURVE SMOOTH",
-"345 304 OFFCURVE",
-"352 296 OFFCURVE",
-"352 288 CURVE SMOOTH",
-"352 281 OFFCURVE",
-"345 274 OFFCURVE",
-"336 274 CURVE SMOOTH"
-);
-}
-);
-width = 530;
-}
-);
-note = uniFD3F;
-unicode = FD3F;
 },
 {
 glyphname = anoteleia;
