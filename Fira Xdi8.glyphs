@@ -15,7 +15,7 @@ name = Punctuations;
 },
 {
 automatic = 1;
-code = "a o e E A Y L six two b p m w j q x y n z D s r H i one V three N l d t g k h four eight five v F seven B c f u T a.case o.case e.case E.case A.case Y.case L.case six.case two.case b.case p.case m.case w.case j.case q.case x.case y.case n.case z.case D.case s.case r.case H.case i.case one.case V.case three.case N.case l.case d.case t.case g.case k.case h.case four.case eight.case five.case v.case F.case seven.case B.case c.case f.case u.case T.case V_y f_f f_f_i f_f_l f_f_short f_i f_l fi fl V_l.liga f_L.liga f_f_j.liga f_j.liga period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk numbersign slash backslash uni2016 uni203F uni204A exclamdown.case questiondown.case uni208D uni208E parenleft parenright braceleft braceright bracketleft bracketright uni207D uni207E parenleft.case parenright.case braceleft.case braceright.case bracketleft.case bracketright.case hyphen uni00AD endash emdash figuredash underscore uni2010 uni2011 uni2015 hyphen.case uni00AD.case endash.case emdash.case quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemotleft guillemotright guilsinglleft guilsinglright quotedbl quotesingle guillemotleft.case guillemotright.case guilsinglleft.case guilsinglright.case uni0E4F uni05C3 uni05F3 uni05F4 uni05BE uni10FB uni097D uni0964 uni0965 uni0970 uni06D4 uni060C uni061B uni061F uni066D uniFD3E uniFD3F anoteleia uni037E space uni00A0 uni2007 uni2008 uni200B space.frac uni200C uni200D uni200E uni200F CR uniFEFF Euro cent colonmonetary currency dollar dong florin sterling uni0E3F uni20A9 uni20AF uni20BA uni20BD yen dotmath plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot asciicircum emptyset infinity integral uni2126 uni2206 product summation radical uni00B5 partialdiff percent perthousand uni207A uni207B uni207C uni208A uni208B uni208C uni2215 uni2219 uni2981 infinity.case arrowup uni2197 arrowright uni2198 arrowdown uni2199 arrowleft uni2196 arrowboth arrowupdn upWhiteArrow uni21E8 uni21E9 uni21E6 uni2B06 uni2B07 uni2B05 uni27A1 uni25CF uni25CC lozenge uni25AF triagup uni25B6 triagdn uni25C0 triagrt triaglf uni25B4 uni25B8 uni25BE uni25C2 at ampersand paragraph section copyright registered trademark degree bar brokenbar uni2113 dagger daggerdbl estimated uni2116 uni21EA uni2327 uni232B uni2326 uni2328 uni23CE PowerSymbol powerOnOffSymbol uni2B58 powerOnSymbol powerSleepSymbol uniF8FF uni02D4 uni02D6 uni02D7 uni02DE uni02E5 uni02E6 uni02E7 uni02E8 uni02E9 uni02EE uniA789 uniA78A uni02E4 uniFB29 uni066A uni0609 uni060A uni03F6 uni0374 uni0375 uni02E0";
+code = "a o e E A Y L six two b p m w j q x y n z D s r H i one V three N l d t g k h four eight five v F seven B c f u T a.case o.case e.case E.case A.case Y.case L.case six.case two.case b.case p.case m.case w.case j.case q.case x.case y.case n.case z.case D.case s.case r.case H.case i.case one.case V.case three.case N.case l.case d.case t.case g.case k.case h.case four.case eight.case five.case v.case F.case seven.case B.case c.case f.case u.case T.case V_y f_f f_f_i f_f_l f_f_short f_i f_l fi fl V_l.liga f_L.liga f_f_j.liga f_j.liga uni706F period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk numbersign slash backslash uni2016 uni203F uni204A exclamdown.case questiondown.case uni208D uni208E parenleft parenright braceleft braceright bracketleft bracketright uni207D uni207E parenleft.case parenright.case braceleft.case braceright.case bracketleft.case bracketright.case hyphen uni00AD endash emdash figuredash underscore uni2010 uni2011 uni2015 hyphen.case uni00AD.case endash.case emdash.case quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemotleft guillemotright guilsinglleft guilsinglright quotedbl quotesingle guillemotleft.case guillemotright.case guilsinglleft.case guilsinglright.case uni0E4F uni05C3 uni05F3 uni05F4 uni05BE uni10FB uni097D uni0964 uni0965 uni0970 uni06D4 uni060C uni061B uni061F uni066D uniFD3E uniFD3F anoteleia uni037E space uni00A0 uni2007 uni2008 uni200B space.frac uni200C uni200D uni200E uni200F CR uniFEFF Euro cent colonmonetary currency dollar dong florin sterling uni0E3F uni20A9 uni20AF uni20BA uni20BD yen dotmath plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal asciitilde logicalnot asciicircum emptyset infinity integral uni2126 uni2206 product summation radical uni00B5 partialdiff percent perthousand uni207A uni207B uni207C uni208A uni208B uni208C uni2215 uni2219 uni2981 infinity.case arrowup uni2197 arrowright uni2198 arrowdown uni2199 arrowleft uni2196 arrowboth arrowupdn upWhiteArrow uni21E8 uni21E9 uni21E6 uni2B06 uni2B07 uni2B05 uni27A1 uni25CF uni25CC lozenge uni25AF triagup uni25B6 triagdn uni25C0 triagrt triaglf uni25B4 uni25B8 uni25BE uni25C2 at ampersand paragraph section copyright registered trademark degree bar brokenbar uni2113 dagger daggerdbl estimated uni2116 uni21EA uni2327 uni232B uni2326 uni2328 uni23CE PowerSymbol powerOnOffSymbol uni2B58 powerOnSymbol powerSleepSymbol uniF8FF uni02D4 uni02D6 uni02D7 uni02DE uni02E5 uni02E6 uni02E7 uni02E8 uni02E9 uni02EE uniA789 uniA78A uni02E4 uniFB29 uni066A uni0609 uni060A uni03F6 uni0374 uni0375 uni02E0";
 name = All;
 },
 {
@@ -236,7 +236,7 @@ name = "Variable Font File Name";
 value = "Fira Xdi8 Variable";
 }
 );
-date = "2020-09-12 10:36:00 +0000";
+date = "2020-10-12 13:47:18 +0000";
 designer = "bBox Type, Nyoeghau Zen";
 disablesNiceNames = 1;
 familyName = "Fira Xdi8";
@@ -258,8 +258,7 @@ code = "sub a by a.case;\012sub o by o.case;\012sub e by e.case;\012sub E by E.c
 name = case;
 },
 {
-automatic = 1;
-code = "lookupflag IgnoreMarks;\012sub f f i by f_f_i;\012sub f f j by f_f_j.liga;\012sub f f l by f_f_l;\012sub V l by V_l.liga;\012sub f L by f_L.liga;\012sub f f by f_f;\012sub f i by f_i;\012sub f j by f_j.liga;\012sub f l by f_l;\012";
+code = "lookupflag IgnoreMarks;\012sub f f i by f_f_i;\012sub f f j by f_f_j.liga;\012sub f f l by f_f_l;\012sub V l by V_l.liga;\012sub f L by f_L.liga;\012sub f f by f_f;\012sub f i by f_i;\012sub f j by f_j.liga;\012sub f l by f_l;\012sub upWhiteArrow A by A.case;\012sub upWhiteArrow B by B.case;\012sub upWhiteArrow D by D.case;\012sub upWhiteArrow E by E.case;\012sub upWhiteArrow F by F.case;\012sub upWhiteArrow H by H.case;\012sub upWhiteArrow L by L.case;\012sub upWhiteArrow N by N.case;\012sub upWhiteArrow T by T.case;\012sub upWhiteArrow V by V.case;\012sub upWhiteArrow Y by Y.case;\012sub upWhiteArrow a by a.case;\012sub upWhiteArrow b by b.case;\012sub upWhiteArrow c by c.case;\012sub upWhiteArrow d by d.case;\012sub upWhiteArrow e by e.case;\012sub upWhiteArrow eight by eight.case;\012sub upWhiteArrow f by f.case;\012sub upWhiteArrow five by five.case;\012sub upWhiteArrow four by four.case;\012sub upWhiteArrow g by g.case;\012sub upWhiteArrow h by h.case;\012sub upWhiteArrow i by i.case;\012sub upWhiteArrow j by j.case;\012sub upWhiteArrow k by k.case;\012sub upWhiteArrow l by l.case;\012sub upWhiteArrow m by m.case;\012sub upWhiteArrow n by n.case;\012sub upWhiteArrow o by o.case;\012sub upWhiteArrow one by one.case;\012sub upWhiteArrow p by p.case;\012sub upWhiteArrow q by q.case;\012sub upWhiteArrow r by r.case;\012sub upWhiteArrow s by s.case;\012sub upWhiteArrow seven by seven.case;\012sub upWhiteArrow six by six.case;\012sub upWhiteArrow t by t.case;\012sub upWhiteArrow three by three.case;\012sub upWhiteArrow two by two.case;\012sub upWhiteArrow u by u.case;\012sub upWhiteArrow v by v.case;\012sub upWhiteArrow w by w.case;\012sub upWhiteArrow x by x.case;\012sub upWhiteArrow y by y.case;\012sub upWhiteArrow z by z.case;";
 name = liga;
 },
 {
@@ -842,27 +841,30 @@ unicode = 0045;
 },
 {
 glyphname = A;
-lastChange = "2020-09-09 07:39:13 +0000";
+lastChange = "2020-10-21 02:53:07 +0000";
 layers = (
 {
 hints = (
 {
 horizontal = 1;
-origin = "{0, 3}";
+place = "{0, 21}";
 target = up;
 type = BottomGhost;
 },
 {
 horizontal = 1;
-origin = "{1, 1}";
-target = "{0, 0}";
+place = "{534, -20}";
+target = down;
+type = TopGhost;
+},
+{
+place = "{-15, 556}";
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{0, 2}";
-target = down;
-type = TopGhost;
+place = "{0, 143}";
+type = Stem;
 }
 );
 layerId = "FB938A0F-794B-4CBD-9B18-13182D479D81";
@@ -870,46 +872,43 @@ paths = (
 {
 closed = 1;
 nodes = (
-"209 405 LINE",
-"183 536 LINE",
-"-15 536 LINE",
-"171 -207 LINE",
-"417 -207 LINE",
-"602 536 LINE",
-"401 536 LINE",
-"374 405 LINE"
+"541 534 LINE",
+"341 534 LINE",
+"267 143 LINE",
+"200 534 LINE",
+"-15 534 LINE",
+"148 0 LINE",
+"382 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"291 0 LINE",
-"238 265 LINE",
-"345 265 LINE"
+"339 399 LINE",
+"188 399 LINE",
+"188 284 LINE",
+"311 284 LINE"
 );
 }
 );
-width = 587;
+width = 526;
 },
 {
 hints = (
 {
 horizontal = 1;
-origin = "{1, 0}";
-target = "{0, 3}";
+place = "{0, 19}";
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{0, 0}";
-target = "{1, 1}";
-type = Stem;
-},
-{
-horizontal = 1;
-origin = "{0, 2}";
+place = "{519, -20}";
 target = down;
 type = TopGhost;
+},
+{
+place = "{23, 401}";
+type = Stem;
 }
 );
 layerId = "D8724204-5FB7-4143-B54F-478BABD83301";
@@ -917,30 +916,30 @@ paths = (
 {
 closed = 1;
 nodes = (
-"121 307 LINE",
-"51 521 LINE",
-"28 521 LINE",
-"265 -192 LINE",
-"292 -192 LINE",
-"530 521 LINE",
-"505 521 LINE",
-"435 307 LINE"
+"424 519 LINE",
+"400 519 LINE",
+"228 19 LINE",
+"48 519 LINE",
+"23 519 LINE",
+"214 0 LINE",
+"243 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"278 -173 LINE",
-"127 287 LINE",
-"429 287 LINE"
+"359 382 LINE",
+"89 382 LINE",
+"89 364 LINE",
+"359 364 LINE"
 );
 }
 );
-width = 557;
+width = 447;
 }
 );
 leftKerningGroup = uni028F;
-note = A;
+note = v;
 rightKerningGroup = uni028F;
 unicode = 0041;
 },
@@ -9519,7 +9518,7 @@ rightKerningGroup = D;
 {
 export = 0;
 glyphname = Aacute;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -9545,7 +9544,7 @@ unicode = 00C1;
 {
 export = 0;
 glyphname = Acircumflex;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -9571,7 +9570,7 @@ unicode = 00C2;
 {
 export = 0;
 glyphname = Adieresis;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -9597,7 +9596,7 @@ unicode = 00C4;
 {
 export = 0;
 glyphname = Agrave;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -9623,7 +9622,7 @@ unicode = 00C0;
 {
 export = 0;
 glyphname = Aring;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -9649,7 +9648,7 @@ unicode = 00C5;
 {
 export = 0;
 glyphname = Atilde;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -9675,7 +9674,7 @@ unicode = 00C3;
 {
 export = 0;
 glyphname = AE;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -9701,7 +9700,7 @@ unicode = 00C6;
 {
 export = 0;
 glyphname = Ccedilla;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -9727,7 +9726,7 @@ unicode = 00C7;
 {
 export = 0;
 glyphname = Eth;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -9753,7 +9752,7 @@ unicode = 00D0;
 {
 export = 0;
 glyphname = Eacute;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -9779,7 +9778,7 @@ unicode = 00C9;
 {
 export = 0;
 glyphname = Ecircumflex;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -9805,7 +9804,7 @@ unicode = 00CA;
 {
 export = 0;
 glyphname = Edieresis;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -9831,7 +9830,7 @@ unicode = 00CB;
 {
 export = 0;
 glyphname = Egrave;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -9857,7 +9856,7 @@ unicode = 00C8;
 {
 export = 0;
 glyphname = Iacute;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -9883,7 +9882,7 @@ unicode = 00CD;
 {
 export = 0;
 glyphname = Icircumflex;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -9909,7 +9908,7 @@ unicode = 00CE;
 {
 export = 0;
 glyphname = Idieresis;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -9935,7 +9934,7 @@ unicode = 00CF;
 {
 export = 0;
 glyphname = Igrave;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -9961,7 +9960,7 @@ unicode = 00CC;
 {
 export = 0;
 glyphname = Ntilde;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -9987,7 +9986,7 @@ unicode = 00D1;
 {
 export = 0;
 glyphname = Oacute;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -10013,7 +10012,7 @@ unicode = 00D3;
 {
 export = 0;
 glyphname = Ocircumflex;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -10039,7 +10038,7 @@ unicode = 00D4;
 {
 export = 0;
 glyphname = Odieresis;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -10065,7 +10064,7 @@ unicode = 00D6;
 {
 export = 0;
 glyphname = Ograve;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -10091,7 +10090,7 @@ unicode = 00D2;
 {
 export = 0;
 glyphname = Oslash;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -10117,7 +10116,7 @@ unicode = 00D8;
 {
 export = 0;
 glyphname = Otilde;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -10143,7 +10142,7 @@ unicode = 00D5;
 {
 export = 0;
 glyphname = Thorn;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -10169,7 +10168,7 @@ unicode = 00DE;
 {
 export = 0;
 glyphname = Uacute;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -10195,7 +10194,7 @@ unicode = 00DA;
 {
 export = 0;
 glyphname = Ucircumflex;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -10221,7 +10220,7 @@ unicode = 00DB;
 {
 export = 0;
 glyphname = Udieresis;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -10247,7 +10246,7 @@ unicode = 00DC;
 {
 export = 0;
 glyphname = Ugrave;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -10273,7 +10272,7 @@ unicode = 00D9;
 {
 export = 0;
 glyphname = Yacute;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -10299,7 +10298,7 @@ unicode = 00DD;
 {
 export = 0;
 glyphname = aacute;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -10325,7 +10324,7 @@ unicode = 00E1;
 {
 export = 0;
 glyphname = acircumflex;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -10351,7 +10350,7 @@ unicode = 00E2;
 {
 export = 0;
 glyphname = adieresis;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -10377,7 +10376,7 @@ unicode = 00E4;
 {
 export = 0;
 glyphname = agrave;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -10403,7 +10402,7 @@ unicode = 00E0;
 {
 export = 0;
 glyphname = aring;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -10429,7 +10428,7 @@ unicode = 00E5;
 {
 export = 0;
 glyphname = atilde;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -10455,7 +10454,7 @@ unicode = 00E3;
 {
 export = 0;
 glyphname = ae;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -10481,7 +10480,7 @@ unicode = 00E6;
 {
 export = 0;
 glyphname = ccedilla;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -10507,7 +10506,7 @@ unicode = 00E7;
 {
 export = 0;
 glyphname = eacute;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -10533,7 +10532,7 @@ unicode = 00E9;
 {
 export = 0;
 glyphname = ecircumflex;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -10559,7 +10558,7 @@ unicode = 00EA;
 {
 export = 0;
 glyphname = edieresis;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -10585,7 +10584,7 @@ unicode = 00EB;
 {
 export = 0;
 glyphname = egrave;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -10611,7 +10610,7 @@ unicode = 00E8;
 {
 export = 0;
 glyphname = iacute;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -10637,7 +10636,7 @@ unicode = 00ED;
 {
 export = 0;
 glyphname = igrave;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -10663,7 +10662,7 @@ unicode = 00EC;
 {
 export = 0;
 glyphname = germandbls;
-lastChange = "2020-09-29 03:29:48 +0000";
+lastChange = "2020-10-21 02:57:09 +0000";
 layers = (
 {
 components = (
@@ -54708,5 +54707,5 @@ kerning = {
 };
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 5;
+versionMinor = 6;
 }
